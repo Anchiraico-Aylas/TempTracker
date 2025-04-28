@@ -1,4 +1,4 @@
-const ClaveApi = 'fd25cada1e7b47678b044332252804';
+const claveApi = 'fd25cada1e7b47678b044332252804';
 const idioma = 'es';
 const inpCiudad = document.getElementById('input-ciudad');
 
